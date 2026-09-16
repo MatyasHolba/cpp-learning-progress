@@ -11,7 +11,10 @@
   "codingTimePerLesson": {
     "introduction-to-these-tutorials": 4
   },
-  "totalSecondsSpent": 270,
+  "totalSecondsSpent": 276,
   "totalCodingSeconds": 4,
-  "lastActiveLessonSlug": "introduction-to-these-tutorials"
+  "lastActiveLessonSlug": "introduction-to-these-tutorials",
+  "timeSpentPerLessonEN": {
+    "introduction-to-these-tutorials": 6
+  }
 }
