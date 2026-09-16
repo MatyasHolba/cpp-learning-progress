@@ -1,7 +1,7 @@
 # C++ Learning Journey & Portfolio — learncpp.com
 
 ![Progress](https://img.shields.io/badge/C++%20Progress-0%25-brightgreen)
-![Čas](https://img.shields.io/badge/Aktivn%C3%AD%20%C4%8Cas-2m%2018s-blue)
+![Čas](https://img.shields.io/badge/Aktivn%C3%AD%20%C4%8Cas-2m%2034s-blue)
 ![Splněno](https://img.shields.io/badge/Spln%C4%9Bno-0%20%2F%2015873-orange)
 
 ## Interaktivní webové portfolio
@@ -15,11 +15,11 @@ Kompletní kurz včetně odškrtaných splněných kapitol a úkolů, studijníc
 | Metrika | Hodnota |
 | :--- | :--- |
 | **Dokončeno** | **0%** (0 z 15 873 úkolů) |
-| **Celkový aktivní čas** | **2 min 18 s** |
-| — Čtení teorie | 2 min 14 s |
+| **Celkový aktivní čas** | **2 min 34 s** |
+| — Čtení teorie | 2 min 30 s |
 | — Psaní kódu & praxe | 4 s |
 | **Vlastní poznámky a kód** | 0 |
-| **Poslední aktualizace** | 16. 9. 2026 v 11:02:45 |
+| **Poslední aktualizace** | 16. 9. 2026 v 11:11:37 |
 
 ### Odkazy a data
 - [Spustit interaktivní web na GitHub Pages](https://matyasholba.github.io/cpp-learning-progress/)
