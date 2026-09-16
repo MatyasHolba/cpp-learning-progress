@@ -1,20 +1,27 @@
 {
   "checkedBlocks": {
-    "introduction-to-these-tutorials_b1": true
+    "introduction-to-these-tutorials_b1": true,
+    "introduction-to-these-tutorials_b29": false,
+    "introduction-to-these-tutorials_b2": true
   },
   "notes": {},
   "timeSpentPerLesson": {
-    "introduction-to-these-tutorials": 268,
+    "introduction-to-these-tutorials": 285,
     "introduction-to-cplusplus": 1,
-    "introduction-to-programming-languages": 1
+    "introduction-to-programming-languages": 1,
+    "function-template-specialization": 32
   },
   "codingTimePerLesson": {
     "introduction-to-these-tutorials": 4
   },
-  "totalSecondsSpent": 334,
-  "totalCodingSeconds": 4,
-  "lastActiveLessonSlug": "introduction-to-these-tutorials",
+  "totalSecondsSpent": 483,
+  "totalCodingSeconds": 10,
+  "lastActiveLessonSlug": "function-template-specialization",
   "timeSpentPerLessonEN": {
-    "introduction-to-these-tutorials": 64
+    "introduction-to-these-tutorials": 125,
+    "introduction-to-programming-languages": 39
+  },
+  "codingTimePerLessonEN": {
+    "introduction-to-these-tutorials": 6
   }
 }
