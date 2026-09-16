@@ -23,5 +23,4 @@ Celý kurz i s mými odškrtanými splněnými úkoly, časy a zapsanými pozná
 - 💾 [Surová data o postupu (data/progress.json)](./data/progress.json)
 - 📊 [Statistiky studia (stats.json)](./stats.json)
 
----
-*Pro zobrazení webu na GitHub Pages stačí mít v nastavení repozitáře (Settings → Pages) vybranou větev **master** (nebo main) s kořenovou složkou `/`.*
+
