@@ -1,8 +1,8 @@
 # C++ Learning Progress
 
 ![Progress](https://img.shields.io/badge/C++%20Progress-0%25-brightgreen)
-![Time](https://img.shields.io/badge/Active%20Time-5m%2038s-blue)
-![Completed](https://img.shields.io/badge/Completed-1%20%2F%2015873-orange)
+![Time](https://img.shields.io/badge/Active%20Time-8m%2013s-blue)
+![Completed](https://img.shields.io/badge/Completed-2%20%2F%2015873-orange)
 
 > **Credits:** This repository tracks my personal progress studying C++. All source materials and lessons originate from the excellent course at **[learncpp.com](https://www.learncpp.com/)**. Thank you to the authors for their great work!
 
@@ -12,11 +12,11 @@
 
 | Metric | Value |
 | :--- | :--- |
-| **Completed** | **0%** (1 out of 15,873 tasks) |
-| **Total Active Time** | **5 min 38 s** |
-| — Theory Reading | 5 min 34 s |
-| — Coding & Practice | 4 s |
-| **Last Synchronized** | 9/16/2026 at 10:12:48 PM |
+| **Completed** | **0%** (2 out of 15,873 tasks) |
+| **Total Active Time** | **8 min 13 s** |
+| — Theory Reading | 8 min 3 s |
+| — Coding & Practice | 10 s |
+| **Last Synchronized** | 9/17/2026 at 12:06:47 AM |
 
 ### Progress Data
 - [Raw Progress Data (data/progress.json)](./data/progress.json)
