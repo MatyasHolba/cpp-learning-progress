@@ -2,14 +2,14 @@
   "checkedBlocks": {},
   "notes": {},
   "timeSpentPerLesson": {
-    "introduction-to-these-tutorials": 92,
+    "introduction-to-these-tutorials": 113,
     "introduction-to-cplusplus": 1,
     "introduction-to-programming-languages": 1
   },
   "codingTimePerLesson": {
     "introduction-to-these-tutorials": 4
   },
-  "totalSecondsSpent": 94,
+  "totalSecondsSpent": 115,
   "totalCodingSeconds": 4,
   "lastActiveLessonSlug": "introduction-to-these-tutorials"
 }
