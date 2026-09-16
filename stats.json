@@ -1,6 +1,6 @@
 {
   "course": "learncpp.com",
-  "lastSync": "2026-09-16T09:59:56.701Z",
+  "lastSync": "2026-09-16T20:10:43.137Z",
   "mode": "full-web",
   "totalCheckpoints": 15873,
   "checkedCount": 1,
@@ -8,11 +8,11 @@
   "totalHours": 0.1,
   "readingHours": 0.1,
   "codingHours": 0,
-  "totalSeconds": 274,
-  "readingSeconds": 270,
+  "totalSeconds": 280,
+  "readingSeconds": 276,
   "codingSeconds": 4,
-  "formattedTotalTime": "4 min 34 s",
-  "formattedReadingTime": "4 min 30 s",
+  "formattedTotalTime": "4 min 40 s",
+  "formattedReadingTime": "4 min 36 s",
   "formattedCodingTime": "4 s",
   "notesCount": 0
 }
