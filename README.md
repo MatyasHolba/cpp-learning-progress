@@ -1,8 +1,8 @@
 # C++ Learning Journey & Portfolio
 
 ![Progress](https://img.shields.io/badge/C++%20Progress-0%25-brightgreen)
-![Čas](https://img.shields.io/badge/Aktivn%C3%AD%20%C4%8Cas-3m%2046s-blue)
-![Splněno](https://img.shields.io/badge/Spln%C4%9Bno-0%20%2F%2015873-orange)
+![Čas](https://img.shields.io/badge/Aktivn%C3%AD%20%C4%8Cas-4m%2010s-blue)
+![Splněno](https://img.shields.io/badge/Spln%C4%9Bno-1%20%2F%2015873-orange)
 
 > **Poděkování:** Tento repozitář obsahuje můj osobní postup studia C++. Veškeré zdrojové texty a výukové materiály pocházejí z vynikajícího kurzu na **[learncpp.com](https://www.learncpp.com/)**. Děkuji autorům za skvělou práci při výuce C++! 
 
@@ -16,12 +16,12 @@ Kompletní kurz včetně odškrtaných splněných kapitol a úkolů, studijníc
 
 | Metrika | Hodnota |
 | :--- | :--- |
-| **Dokončeno** | **0%** (0 z 15 873 úkolů) |
-| **Celkový aktivní čas** | **3 min 46 s** |
-| — Čtení teorie | 3 min 42 s |
+| **Dokončeno** | **0%** (1 z 15 873 úkolů) |
+| **Celkový aktivní čas** | **4 min 10 s** |
+| — Čtení teorie | 4 min 6 s |
 | — Psaní kódu & praxe | 4 s |
 | **Vlastní poznámky a kód** | 0 |
-| **Poslední aktualizace** | 16. 9. 2026 v 11:35:02 |
+| **Poslední aktualizace** | 16. 9. 2026 v 11:47:04 |
 
 ### Odkazy a data
 - [Spustit interaktivní web na GitHub Pages](https://matyasholba.github.io/cpp-learning-progress/)
