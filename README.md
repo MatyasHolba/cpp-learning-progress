@@ -10,7 +10,7 @@
 - **Dokončeno**: **0%** (0 z 15 873 odstavců/úkolů)
 - **Celkový aktivní čas studia**: **0 hodin** (1 minut)
 - **Vlastních poznámek a kódů**: **0**
-- **Poslední aktualizace**: 16. 9. 2026 v 10:27:55
+- **Poslední aktualizace**: 16. 9. 2026 v 10:29:01
 
 ### 📝 Moje poznámky podle kapitol
 Tento repozitář obsahuje autentický záznam mých poznámek, postřehů a odkazů pořízených během studia:
