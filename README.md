@@ -1,26 +1,30 @@
-# 📘 C++ Learning Journey & Portfolio — learncpp.com
+# C++ Learning Journey & Portfolio — learncpp.com
 
 ![Progress](https://img.shields.io/badge/C++%20Progress-0%25-brightgreen)
-![Time](https://img.shields.io/badge/Aktivn%C3%AD%20%C4%8Cas-0h-blue)
-![Checkpoints](https://img.shields.io/badge/Spln%C4%9Bno-0%20%2F%2015873-orange)
+![Čas](https://img.shields.io/badge/Aktivn%C3%AD%20%C4%8Cas-2m%2018s-blue)
+![Splněno](https://img.shields.io/badge/Spln%C4%9Bno-0%20%2F%2015873-orange)
 
-## 🌐 Interaktivní Webové Portfolio
-Celý kurz i s mými odškrtanými splněnými úkoly, časy a zapsanými poznámkami je publikován na GitHub Pages:
-👉 **[Otevřít interaktivní web](https://matyasholba.github.io/cpp-learning-progress/)**
+## Interaktivní webové portfolio
+Kompletní kurz včetně odškrtaných splněných kapitol a úkolů, studijních časů a zapsaných poznámek je dostupný online na GitHub Pages:
+**[Otevřít interaktivní web](https://matyasholba.github.io/cpp-learning-progress/)**
 
-> Automaticky synchronizováno z desktopové aplikace **C++ Learning Tracker**.
+> Automaticky generováno aplikací **C++ Learning Tracker**.
 
-### 📊 Celkový přehled
-- **Dokončeno**: **0%** (0 z 15 873 odstavců/úkolů)
-- **Celkový aktivní čas studia**: **0 hodin**
-  - 📖 Čtení teorie: **0 hodin**
-  - 💻 Praktické psaní kódu: **0 hodin**
-- **Vlastních poznámek a kódů**: **0**
-- **Poslední aktualizace**: 16. 9. 2026 v 10:38:34
+### Přehled studia
 
-### 📝 Odkazy a data
-- 🌐 [Spustit interaktivní web na GitHub Pages](https://matyasholba.github.io/cpp-learning-progress/)
-- 💾 [Surová data o postupu (data/progress.json)](./data/progress.json)
-- 📊 [Statistiky studia (stats.json)](./stats.json)
+| Metrika | Hodnota |
+| :--- | :--- |
+| **Dokončeno** | **0%** (0 z 15 873 úkolů) |
+| **Celkový aktivní čas** | **2 min 18 s** |
+| — Čtení teorie | 2 min 14 s |
+| — Psaní kódu & praxe | 4 s |
+| **Vlastní poznámky a kód** | 0 |
+| **Poslední aktualizace** | 16. 9. 2026 v 11:02:45 |
 
+### Odkazy a data
+- [Spustit interaktivní web na GitHub Pages](https://matyasholba.github.io/cpp-learning-progress/)
+- [Surová data o postupu (data/progress.json)](./data/progress.json)
+- [Statistiky studia (stats.json)](./stats.json)
 
+---
+*Web funguje přímo na GitHub Pages z větve `main` (nebo `master`).*
